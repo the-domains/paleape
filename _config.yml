@@ -1,4 +1,3 @@
-layout_spectrum: 0.1297578124795109
 typography_spectrum: 0.4306224712636322
 color:
   brandStrength: 0.0833922172896564
@@ -11,4 +10,6 @@ color:
     - '#B8B8B8'
     - '#282828'
     - '#4E4E4E'
+layout_spectrum: 0.1297578124795109
 name: PaleApe
+title: Pale Ape
