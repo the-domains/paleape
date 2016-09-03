@@ -17,6 +17,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/92de09d8-5ddd-4244-b896-0ccff935a150.jpg
 name: Pale Ape
+navigation:
+  - name: Upcoming Shows
+    id: 1ead41aa-00b9-4330-b45c-d642671c9521
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9742e9c6-76fc-425e-a305-c55b3ba64e6d.ico
 title: Some Call It Music...
