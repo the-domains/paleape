@@ -1,16 +1,28 @@
-typography_spectrum: 0.4306224712636322
+layout_spectrum: 0.1297578124795109
+description: Some call it music...
+name: PaleApe
+title: Pale Ape
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.5978723
 color:
   brandStrength: 0.0833922172896564
-  lightness: 0.6272312426008284
   saturation: 0.9398733305279166
-  rhythmicContrast: 0.9405249371193349
   brandColors:
     - '#040404'
     - '#F5F5F5'
     - '#B8B8B8'
     - '#282828'
     - '#4E4E4E'
-layout_spectrum: 0.1297578124795109
-name: PaleApe
-title: Pale Ape
-description: Some call it music...
+  lightness: 0.6272312426008284
+  rhythmicContrast: 0.9405249371193349
