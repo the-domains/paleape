@@ -1,30 +1,90 @@
-typography_spectrum: 0.4306224712636322
+layout_spectrum: 0.33264742582492385
+typography_spectrum: 0.940252377924205
 color:
-  brandStrength: 0.0833922172896564
-  lightness: 0.6272312426008284
-  saturation: 0.9398733305279166
-  rhythmicContrast: 0.9405249371193349
+  lightness: 0.4004130763873126
   brandColors:
     - '#040404'
     - '#F5F5F5'
     - '#B8B8B8'
     - '#282828'
     - '#4E4E4E'
-layout_spectrum: 0.1297578124795109
+  saturation: 0.9328303775240179
+  brandStrength: 0.9414070773930611
+  rhythmicContrast: 0.25024603246157934
+coverPrefs:
+  filter: false
+name: Pale Ape
+analytics: {}
+purpose:
+  - url: 'mailto:booking@paleape.com'
+    type: contact
+    label: Book the Ape
+description: Some call it music...
 author:
   name: Brian Wickliff
   email: brian@hicksmokey.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92de09d8-5ddd-4244-b896-0ccff935a150.jpg
-name: Pale Ape
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d249d61-759a-4190-b2c2-5e8a0642898f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d249d61-759a-4190-b2c2-5e8a0642898f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
   - name: Upcoming Shows
-    id: 1ead41aa-00b9-4330-b45c-d642671c9521
-    type: content
-  - name: Media
-    id: 2504e794-e81a-4e5b-bd6d-538ba277b368
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9742e9c6-76fc-425e-a305-c55b3ba64e6d.ico
+    url: 'http://bandsintown.com/PaleApe?came_from=234'
+    type: external
+  - name: Soundcloud
+    url: 'https://soundcloud.com/paleape/albums'
+    type: external
+  - name: Bandcamp
+    url: 'https://paleape.bandcamp.com'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/paleape/'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/PaleApeBand'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/paleape/'
+    type: external
+favicon: null
+content_rating:
+  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f95b4f-ce6e-4f7c-97cf-5cd3f650ea96.jpg
 title: Pale Ape
-description: Some call it music...
+opengraph: {}
+url: 'https://paleape.com'
+github: true
