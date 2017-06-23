@@ -4,9 +4,9 @@
         <description><![CDATA[Pale Ape]]></description>
         <link>http://paleape.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Jun 2017 02:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2017 02:20:24 GMT</lastBuildDate>
         <atom:link href="http://paleape.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Jun 2017 02:20:11 GMT</pubDate>
+        <pubDate>Fri, 23 Jun 2017 02:20:23 GMT</pubDate>
         <item>
             <title><![CDATA[O5.28.17 Memorial Day Weekend]]></title>
             <description><![CDATA[<h1>O5.28.17 Memorial Day Weekend</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00523e65-9c01-4965-a0aa-af1bb50e385e.jpg">]]></description>
@@ -69,13 +69,6 @@
             <link>http://paleape.com/the-knock-out-032013/index.html</link>
             <guid isPermaLink="false">16c3d159-ab4e-4009-9687-bec97ee1b812</guid>
             <pubDate>Tue, 20 Jun 2017 01:39:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hemlock Tavern 05.28.17]]></title>
-            <description><![CDATA[<h1>Hemlock Tavern 05.28.17</h1>]]></description>
-            <link>http://paleape.com/hemlock-tavern-052817/index.html</link>
-            <guid isPermaLink="false">d939112a-3586-4934-9edb-fff819084217</guid>
-            <pubDate>Fri, 23 Jun 2017 02:20:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
